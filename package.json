@@ -1,0 +1,15 @@
+{
+  "name": "nextjs-repro-head",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "next"
+  },
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3"
+  }
+}
